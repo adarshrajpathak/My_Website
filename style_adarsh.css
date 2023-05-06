@@ -1,11 +1,14 @@
+#mastodon{
+  display:none !important;
+}
+
 h1{
   color:orange;
 }
 body{
+  height:100%;
   display:flex;
   flex-direction:column;
-  justify-content:center;
-}
-head a{
-  display:none;
+  justify-content:space-between;
+  align-items: center;
 }
