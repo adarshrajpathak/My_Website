@@ -1,5 +1,5 @@
 # My_Website
-delploying my own website: adarshrajpathak.me
+deploying my own website: adarshrajpathak.me
 
 **This is the deployment of my personal portfolio website.** This project marks a significant milestone in showcasing my work and establishing my online presence as a professional.
 
