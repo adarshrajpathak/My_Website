@@ -1,6 +1,9 @@
 body{
   margin:0px;
 }
+#mastodon{
+  display:none;
+}
 main{
   display:flex;
   flex-direction: column;
