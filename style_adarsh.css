@@ -749,51 +749,6 @@ footer{
 #version{
   color:white;
 }
-
-#heimberger{
-  display:none;
-  z-index:11;
-}
-#heimberger-div{
-  position:absolute;
-  background-color: #777876;
-  padding:5px;
-  right:2.6em;
-  top:1.25em;
-  box-shadow:0px 0px 2px 1px rgba(230,196,196,0.3);
-  display:none;
-}
-.vertical_list{
-  font-size:1.2rem;
-  display:flex;
-  flex-direction: column;
-  flex-wrap:wrap;
-  justify-content: center;
-  margin:0px;
-  padding:0px;
-  list-style:none;
-}
-.vertical_list li a{
-  text-decoration:none;
-  color:#0A0B36;
-  margin-bottom: 1px;
-  
-}
-#heimberger:hover + #heimberger-div {
-  display: block;
-}
-#heimberger-div:hover {
-  display: block;
-}
-@media screen and (max-width:600px){
-  #heimberger{
-      display:block;
-  }
-  #navg{
-      display:none;
-  }
-}
-
 /*
 -be organic for the first time(clean up the code and push it through the git & personal domain)
 !imp-(also add this to your, linkedin, twitter, github, and relevant social handles if you have)
