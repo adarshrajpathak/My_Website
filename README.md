@@ -8,7 +8,7 @@ To bring this website to life, I have invested time and effort in crafting an en
 
 Apart from this the _webisite will be recieving the major update_ in the form of new **tech stack** implentation _in the subsequent months on regular basis._
 
-**The version launching is v1.0.0**
+**The version launching is v1.1.0**
 <br/>Major.Minor.Patch: This versioning scheme uses three numbers to represent major, minor, and patch versions.<br/>
 <ul>
   <li>The major number represents significant updates or using a new tech stack.</li>
