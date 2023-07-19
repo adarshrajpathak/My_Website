@@ -778,17 +778,17 @@ footer{
   
 }
 #heimberger:hover + #heimberger-div {
-  display: block;
+  display: block !important;
 }
 #heimberger-div:hover {
-  display: block;
+  display: block !important;
 }
 @media screen and (max-width:600px){
   #heimberger{
-      display:block;
+      display:block !important;
   }
   #navg{
-      display:none;
+      display:none !important;
   }
 }
 
