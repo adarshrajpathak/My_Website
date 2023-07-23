@@ -15,7 +15,7 @@ for(var i=0;i<Elements.length;i++){
             // console.log(scrollY);
             // console.log(w);
             window.scrollBy(0,20);
-            setTimeout(()=>{clearInterval(scrollInterval);},2000);
+            setTimeout(()=>{clearInterval(scrollInterval);},1500);
         },1);
     });
 }
