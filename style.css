@@ -202,6 +202,7 @@ section:nth-child(2n+3){
   box-shadow:0 0 6px 4px rgb(45, 44, 44);
   overflow: hidden;
 }
+
 .ind-background div{
   height:2.5rem;
   display:flex;
@@ -223,31 +224,31 @@ section:nth-child(2n+3){
 #Java{
   /* height:10px; */
 
-  width:60%;
+  width:94%;
   background-color:#7a736e;
 }
 #Python{
-  width:70%;
+  width:75%;
   background-color:#3776ab;
 }
 #Cpp{
-  width:75%;
+  width:85%;
   background-color:#00599c;
 }
 #C{
-  width:70%;
+  width:80%;
   background-color:#1c1c1c;
 }
 #HTML{
-  width:90%;
+  width:92%;
   background-color:#e34f26;
 }
 #CSS{
-  width:90%;
+  width:94%;
   background-color:#1572b6;
 }
 #Javascript{
-  width:50%;
+  width:70%;
   background-color:#f7df1e;
 }
 #SQL{
@@ -263,7 +264,7 @@ section:nth-child(2n+3){
   background-color:#000000;
 }
 #Node{
-  width:18%;
+  width:30%;
   background-color:#43853d;
 }
 #MongoDB{
@@ -279,8 +280,17 @@ section:nth-child(2n+3){
   background-color:#100000;
 }
 #Linux{
-  width:60%;
+  width:70%;
   background-color:#fcc624;
+}
+/* code for the animation of the skill filll */
+.skillAnimation{
+  animation: skillFill 1s linear forwards;
+}
+@keyframes skillFill{
+  0%{
+    width:0%;
+  }
 }
 .color-alter{
   color:#0A0B36 !important;
