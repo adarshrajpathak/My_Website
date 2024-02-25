@@ -1,5 +1,5 @@
 # My_Website
-<i>Deploying my own website: <a href="https://www.adarshrajpathak.dev">www.adarshrajpathak.me</a> </i>
+<i>Deploying my own website: <a href="https://www.adarshrajpathak.dev">www.adarshrajpathak.dev</a> </i>
 
 **This is the deployment of my personal portfolio website.** This project marks a significant milestone in showcasing my work and establishing my online presence as a professional.
 
